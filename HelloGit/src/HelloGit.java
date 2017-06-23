@@ -8,6 +8,7 @@ public class HelloGit {
 		StdOut.println("Hello git!");
 		
 		// Another test
+		StdOut.print("When you change, git sees it.");
 		
 		
 	}
