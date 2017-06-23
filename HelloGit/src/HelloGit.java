@@ -4,6 +4,7 @@ public class HelloGit {
 
 	public static void main(String[] args) {
 		
+		// Testing version control
 		StdOut.println("Hello git!");
 		
 	}
